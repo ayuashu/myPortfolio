@@ -13,7 +13,7 @@ const projectsData = [
           "This is my portfolio website. It is built using ReactJS, Tailwind CSS and hosted on Vercel.",
         image: "/Images/Project1.avif",
         tag: ["All", "Web"],
-        gitUrl: "/",
+        gitUrl: "https://github.com/ayuashu/myPortfolio",
         previewUrl: "/",
       },
       {
